@@ -1,6 +1,6 @@
 # Hi there, I'm Alex 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Python+developer;FastAPI%2C+Django%2C+Flask%2C+Aiogram%2C+Docker%2C+PostgreSQL%2C+GitHub+Actions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Python+developer;Django%2C+Aiogram%2C+Docker%2C+PostgreSQL)](https://git.io/typing-svg)
 
 ## My skills:
 - ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
@@ -17,4 +17,3 @@
 
 ## Contact me:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/AlexVladimirovichB)
-
